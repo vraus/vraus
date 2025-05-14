@@ -58,60 +58,11 @@ I'm currently an apprentice developer at [**Squeegee**](https://www.squeegeevers
 
 ## 🧪 Projects
 
-### 🎮 [Fly Me To The Room](https://vraus.itch.io/fly-me-to-the-room)
-
-36h Game Jam project made with Unreal Engine & Ableton for DTJ#13
-
-> _Play as a fly exploring a massive room from a tiny perspective — rescue your friends and escape!_
-
-**Role:** Game Developer & Sound Designer  
-🧰 _Unreal Engine 5 – Blueprints – Ableton – GitHub_  
-🎥 [Trailer](https://youtu.be/cltRaqTl5Mg) · [Itch.io](https://vraus.itch.io/fly-me-to-the-room)
-
----
-
-### 🤖 [Steering Lab](https://github.com/vraus/Steering_Lab)
-
-Academic project exploring AI & movement behaviors in C++
-
-> _Implemented classic AI behaviors like Seek, Flee, and A\* Pathfinding from scratch in UE5._
-
-**Role:** Solo Developer  
-🧰 _Unreal Engine 5 – C++ – Blueprints_
-
----
-
-### 🐼 Red Pandas
-
-MMORPG prototype with combat system, quests, inventory, and AI
-
-> _In development – focused on modular systems and networking._
-
-**Role:** Game Developer (Perforce, Dialogue System, Combat System, AI)  
-🧰 _Unreal Engine – C++ – Blueprints – Perforce_
-
----
-
-### 🔊 [Wwisard](https://github.com/vraus/Wwisard)
-
-Solo mini-FPS with Wwise audio integration
-
-> _An immersive audio experiment: 3D spatialization, interactive audio menus, and more._
-
-**Role:** Game Developer & Audio Programmer  
-🧰 _Unreal Engine – C++ – Wwise – Blueprints_  
-🎥 [Gameplay Video](https://youtu.be/03hS-5pdrZ8)
-
----
-
-### 🕹️ [Chev’s Quest](https://vraus.itch.io/chevs-quest)
-
-Humorous medieval-themed Point & Click built in Unity
-
-> _Solo Unity project with retro-style dialogues and puzzles._
-
-**Role:** Game Developer  
-🧰 _Unity – C#_
+- 🔊 **[Wwisard](https://github.com/vraus/Wwisard)** – Mini-FPS with immersive 3D audio using Wwise and Unreal Engine.
+- 🤖 **[Steering Lab](https://github.com/vraus/Steering_Lab)** – AI movement behaviors (seek, flee, pathfinding) implemented from scratch in UE5.
+- 🎮 **[Fly Me To The Room](https://github.com/vraus/FlyMeToTheRoom)** – Game jam project where you play as a fly in a giant room; focus on sound and level design.
+- ⚙️ **[Percival Engine](https://github.com/vraus/Percival-Engine)** – Custom C++ game engine with Vulkan rendering and basic ECS architecture.
+- 🕹️ **[Chev’s Quest](https://vraus.itch.io/chevs-quest)** – Humorous point-and-click game developed solo in Unity with dialogue and puzzles.
 
 ---
 
