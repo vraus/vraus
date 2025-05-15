@@ -29,6 +29,8 @@ I'm currently an apprentice developer at [**Squeegee**](https://www.squeegeevers
 
 > My goal: to craft immersive, technically solid, and memorable interactive experiences.
 
+Go Checkout my [portfolio](https://vraus.github.io/portfolio/) !
+
 ---
 
 ## 🛠️ Tech Stack
