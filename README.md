@@ -11,7 +11,7 @@ I'm currently an apprentice developer at [**Squeegee**](https://www.squeegeevers
 - Gameplay programming in **C++/Blueprints** and **C#**
 - Audio integration using **Wwise** and **Ableton**
 - Artificial Intelligence and dialogue systems
-- Engine Development with Vulkan in C++
+- Engine Development with **Vulkan** in **C++**
 
 > My goal: to craft immersive, technically solid, and memorable interactive experiences.
 
