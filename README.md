@@ -1,20 +1,6 @@
-<!--
-**vraus/vraus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hello there! I'm Hadrien Belleville (Vraus)
 
-🎮 _**Game Developer** | **Audio Programmer** | **Passionate about immersive worlds**_
+🎮 _**Game Developer** | **Engine Developer** | **Audio Programmer** | **Passionate about immersive worlds**_
 
 ---
 
@@ -40,6 +26,9 @@ Go Checkout my [portfolio](https://vraus.github.io/portfolio/) !
 
 **Languages:**  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white) ![Blueprints](https://img.shields.io/badge/-Blueprints-7E57C2?logo=unrealengine&logoColor=white)
+
+**Graphics API & Tools:**  
+![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white) ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=glfw&logoColor=white) ![GLM](https://img.shields.io/badge/-GLM-5C5C5C?logo=opengl&logoColor=white)
 
 **Audio Tools:**  
 ![Wwise](https://img.shields.io/badge/-Wwise-004880?logo=audacity&logoColor=white) ![Ableton](https://img.shields.io/badge/-Ableton-000000?logo=abletonlive&logoColor=white)
@@ -70,9 +59,9 @@ Go Checkout my [portfolio](https://vraus.github.io/portfolio/) !
 
 ## 🌱 Currently Learning
 
+- 🧱 Deep dive into **Vulkan** and **Computer Graphics Programming** via **Udemy**
 - 🔄 Lip-sync & Dialogue Systems in **Unity** and **Unreal** with **Wwise**
 - 💬 **REST APIs** for dialogue integration
-- 🎧 **Azure** Text-to-Speech & Speech-to-Text
 - 📦 Game audio metadata handling with **Wwise** WAPI / WAQL
 
 ---
