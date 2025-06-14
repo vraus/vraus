@@ -54,6 +54,7 @@ Go Checkout my [portfolio](https://vraus.github.io/portfolio/) !
 - 🎮 **[Fly Me To The Room](https://github.com/vraus/FlyMeToTheRoom)** – Game jam project where you play as a fly in a giant room; focus on sound and level design.
 - ⚙️ **[Percival Engine](https://github.com/vraus/Percival-Engine)** – Custom C++ game engine with Vulkan rendering and basic ECS architecture.
 - 🕹️ **[Chev’s Quest](https://vraus.itch.io/chevs-quest)** – Humorous point-and-click game developed solo in Unity with dialogue and puzzles.
+- 🚀 **[Vulkan Course](https://github.com/vraus/VulkanCourse)** - Vulkan Course from Udemy for a more in-depth approach of the API and help me in the future with the **Percival Engine**.
 
 ---
 
