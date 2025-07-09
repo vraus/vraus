@@ -10,8 +10,8 @@ I'm currently an apprentice developer at [**Squeegee**](https://www.squeegeevers
 
 - Gameplay programming in **C++/Blueprints** and **C#**
 - Audio integration using **Wwise** and **Ableton**
-- Artificial Intelligence and dialogue systems
 - Engine Development with **Vulkan** in **C++**
+- Software Engineering with **C++** and **Qt**
 
 > My goal: to craft immersive, technically solid, and memorable interactive experiences.
 
@@ -28,7 +28,11 @@ Go Checkout my [portfolio](https://vraus.github.io/portfolio/) !
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white) ![Blueprints](https://img.shields.io/badge/-Blueprints-7E57C2?logo=unrealengine&logoColor=white)
 
 **Graphics API & Tools:**  
-![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white) ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=glfw&logoColor=white) ![GLM](https://img.shields.io/badge/-GLM-5C5C5C?logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white) ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=glfw&logoColor=white) ![GLM](https://img.shields.io/badge/-GLM-5C5C5C?logo=opengl&logoColor=white) 
+
+**UI / Network Apps:**  
+![Qt](https://img.shields.io/badge/Qt-6.9.1-2D2D2D?style=for-the-badge&logo=qt&logoColor=white) ![Dédibox](https://img.shields.io/badge/D%C3%A9dibox-Hosted-2D2D2D?style=for-the-badge&logo=server&logoColor=white)
+
 
 **Audio Tools:**  
 ![Wwise](https://img.shields.io/badge/-Wwise-004880?logo=audacity&logoColor=white) ![Ableton](https://img.shields.io/badge/-Ableton-000000?logo=abletonlive&logoColor=white)
@@ -63,7 +67,7 @@ Go Checkout my [portfolio](https://vraus.github.io/portfolio/) !
 - 🧱 Deep dive into **Vulkan** and **Computer Graphics Programming** via **Udemy**
 - 🔄 Lip-sync & Dialogue Systems in **Unity** and **Unreal** with **Wwise**
 - 💬 **REST APIs** for dialogue integration
-- 📦 Game audio metadata handling with **Wwise** WAPI / WAQL
+- 📦 Software Engineering and deployment with C++/Qt and self-hosted server.
 
 ---
 
