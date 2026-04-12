@@ -1,81 +1,92 @@
-# 👋 Hello there! I'm Hadrien Belleville (Vraus)
+# 👋 Hadrien Belleville — Vraus
 
-🎮 _**Game Developer** | **Engine Developer** | **Audio Programmer** | **Passionate about immersive worlds**_
+🛡️ _**Software Engineer** transitioning into **Cybersecurity** | Blue Team · DFIR · SOC_  
+💻 _C++ · Unreal Engine 5 · Vulkan · Low-level systems_
 
 ---
 
 ## 🧭 About Me
 
-I'm currently an apprentice developer at [**Squeegee**](https://www.squeegeeverse.com) with a passion for game development, audio programming, and game engines like **Unreal Engine** and **Unity**. My background combines technical skills and creativity, with a strong focus on:
+I'm a software engineer (MSc in Computer Science, 2025) with a strong background in **C++ development**, **game engine architecture**, and **real-time systems**. I'm now channeling these technical foundations into **cybersecurity**, with a focus on **Blue Team operations**, **Digital Forensics & Incident Response (DFIR)**, and **SOC analysis**.
 
-- Gameplay programming in **C++/Blueprints** and **C#**
-- Audio integration using **Wwise** and **Ableton**
-- Engine Development with **Vulkan** in **C++**
-- Software Engineering with **C++** and **Qt**
+My low-level programming experience — memory management, process pipelines, system behavior — gives me a concrete understanding of how systems work under the hood, which directly applies to anomaly detection, forensic investigation, and malware analysis.
 
-> My goal: to craft immersive, technically solid, and memorable interactive experiences.
+> 🎯 Currently seeking a **cybersecurity apprenticeship** (MS ECRSI — Télécom Paris, Sept. 2026)  
+> 🔍 Interests: **DFIR · Blue Team · Threat Intelligence · Digital Forensics**
 
-Go Checkout my [portfolio](https://vraus.github.io/portfolio/) !
+---
+
+## 🔐 Cybersecurity Journey
+
+I'm actively building my cybersecurity skills through hands-on platforms:
+
+| Platform | Focus | Profile |
+|---|---|---|
+| 🟥 **TryHackMe** | Blue Team · SOC · Fundamentals | [vraus](https://tryhackme.com/p/vraus) |
+| 🔵 **BlueTeamLabs Online** | Digital Forensics · Incident Response | [vraus](https://blueteamlabs.online/public/user/vraus) |
+| ☠️ **HackTheBox** | CTF · Pentesting · Labs | [vraus](https://app.hackthebox.com/profile/vraus) |
+
+**Current focus areas:**
+- Network fundamentals (TCP/IP, protocols, log analysis)
+- Linux & Windows administration and forensics
+- Digital forensics — artifact analysis, post-incident investigation
+- Blue Team detection and incident response workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Game Engines:**  
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-222222?logo=unity&logoColor=white)
+**Security & Forensics:**  
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 
 **Languages:**  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white) ![Blueprints](https://img.shields.io/badge/-Blueprints-7E57C2?logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Blueprints](https://img.shields.io/badge/-Blueprints-7E57C2?logo=unrealengine&logoColor=white)
 
-**Graphics API & Tools:**  
-![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white) ![GLFW](https://img.shields.io/badge/-GLFW-000000?logo=glfw&logoColor=white) ![GLM](https://img.shields.io/badge/-GLM-5C5C5C?logo=opengl&logoColor=white) 
-
-**UI / Network Apps:**  
-![Qt](https://img.shields.io/badge/Qt-6.9.1-2D2D2D?style=for-the-badge&logo=qt&logoColor=white) ![Dédibox](https://img.shields.io/badge/D%C3%A9dibox-Hosted-2D2D2D?style=for-the-badge&logo=server&logoColor=white)
-
-
-**Audio Tools:**  
-![Wwise](https://img.shields.io/badge/-Wwise-004880?logo=audacity&logoColor=white) ![Ableton](https://img.shields.io/badge/-Ableton-000000?logo=abletonlive&logoColor=white)
+**Game Engines & Graphics:**  
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white)
+![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-222222?logo=unity&logoColor=white)
 
 **Versioning / Tools:**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Perforce](https://img.shields.io/badge/-Perforce-005CAB?logo=perforce&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Perforce](https://img.shields.io/badge/-Perforce-005CAB?logo=perforce&logoColor=white)
 
 ---
 
 ## 📚 Education
 
-🧑‍🎓 _Master's Degree in Computer Science for Video Games and Game Engines_  
-🏫 _University of Artois_  
-📍 _Lens, France_  
-🗓️ _2023 - 2025_
+🎓 _MSc Computer Science — Game Engines & Software Engineering_ — University of Artois (2023–2025)  
+🌍 _BSc Computer Science (International)_ — UBO Brest + UQAC Canada (2019–2023)  
+🛡️ _MS ECRSI Candidate_ — Télécom Paris — **Cybersecurity & Network Systems** (Sept. 2026)
 
 ---
 
 ## 🧪 Projects
 
-- 🔊 **[Wwisard](https://github.com/vraus/Wwisard)** – Mini-FPS with immersive 3D audio using Wwise and Unreal Engine.
-- 🤖 **[Steering Lab](https://github.com/vraus/Steering_Lab)** – AI movement behaviors (seek, flee, pathfinding) implemented from scratch in UE5.
-- 🎮 **[Fly Me To The Room](https://github.com/vraus/FlyMeToTheRoom)** – Game jam project where you play as a fly in a giant room; focus on sound and level design.
-- ⚙️ **[Percival Engine](https://github.com/vraus/Percival-Engine)** – Custom C++ game engine with Vulkan rendering and basic ECS architecture.
-- 🕹️ **[Chev’s Quest](https://vraus.itch.io/chevs-quest)** – Humorous point-and-click game developed solo in Unity with dialogue and puzzles.
-- 🚀 **[Vulkan Course](https://github.com/vraus/VulkanCourse)** - Vulkan Course from Udemy for a more in-depth approach of the API and help me in the future with the **Percival Engine**.
+### 🔒 Cybersecurity & Systems
+- 🕵️ **TryHackMe / BTLO** — Active daily practice: Blue Team scenarios, log analysis, digital forensics challenges
+- ⚙️ **[Percival Engine](https://github.com/vraus/Percival-Engine)** – Custom C++ engine on Vulkan — deep understanding of process behavior, memory management and GPU pipelines *(directly applicable to forensic analysis)*
+
+### 🎮 Game Development
+- 🤖 **[Steering Lab](https://github.com/vraus/Steering_Lab)** – AI steering behaviors in C++/UE5 — vector math, modular architecture, full documentation
+- 🔊 **[Wwisard](https://github.com/vraus/Wwisard)** – Wwise audio integration in UE5 — SDK architecture, spatial audio, C++ & Blueprint
+- 🌍 **[Terra Regina](https://github.com/vraus/TerraRegina)** – Multiplayer prototype in UE5 — network architecture, session management
+- 🎮 **[Fly Me To The Room](https://vraus.itch.io/fly-me-to-the-room)** – 36h game jam — delivered under extreme constraints
+- 🕹️ **[Chev's Quest](https://vraus.itch.io/chevs-quest)** – Solo point-and-click in Unity
 
 ---
 
-## 🌱 Currently Learning
+## 📫 Let's Connect
 
-- 🧱 Deep dive into **Vulkan** and **Computer Graphics Programming** via **Udemy**
-- 🔄 Lip-sync & Dialogue Systems in **Unity** and **Unreal** with **Wwise**
-- 💬 **REST APIs** for dialogue integration
-- 📦 Software Engineering and deployment with C++/Qt and self-hosted server.
-
----
-
-## 📫 Let’s Connect
-
-- 💼 _[LinkedIn](https://www.linkedin.com/in/ton-nom/)_
-- 🌐 _[Portfolio Website](https://vraus.github.io/portfolio/)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/hadrien-belleville-b25463176/)
+- 🌐 [Portfolio](https://vraus.github.io/portfolio/)
+- 🎮 [itch.io](https://vraus.itch.io)
 
 ---
 
-> 🎯 _Always prototyping, always learning — let’s build something cool!_
+> 🛡️ _Software engineer by training, cybersecurity professional in the making._  
+> _Low-level systems knowledge meets defensive security — one forensic challenge at a time._
