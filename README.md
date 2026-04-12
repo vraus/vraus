@@ -22,9 +22,9 @@ I'm actively building my cybersecurity skills through hands-on platforms:
 
 | Platform | Focus | Profile |
 |---|---|---|
-| 🟥 **TryHackMe** | Blue Team · SOC · Fundamentals | [vraus](https://tryhackme.com/p/vraus) |
-| 🔵 **BlueTeamLabs Online** | Digital Forensics · Incident Response | [vraus](https://blueteamlabs.online/public/user/vraus) |
-| ☠️ **HackTheBox** | CTF · Pentesting · Labs | [vraus](https://app.hackthebox.com/profile/vraus) |
+| 🟥 **TryHackMe** | Blue Team · SOC · Fundamentals | [Vraus](https://tryhackme.com/p/hadrien.belleville22) |
+| 🔵 **BlueTeamLabs Online** | Digital Forensics · Incident Response | [VrausBlueTeam](https://blueteamlabs.online/public/user/65d3d2c7c3f42d01ac0351) |
+| ☠️ **HackTheBox** | CTF · Pentesting · Labs | [VrausHTB](https://profile.hackthebox.com) |
 
 **Current focus areas:**
 - Network fundamentals (TCP/IP, protocols, log analysis)
